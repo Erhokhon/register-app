@@ -1,5 +1,3 @@
- hold this code
-
 pipeline {
     agent{ label 'Jenkins-Agent'}
     tools {
